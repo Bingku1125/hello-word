@@ -1,1 +1,4 @@
-branch1  checkout1 
+
+branch1  checkout1
+branch2 checkout2
+
